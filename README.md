@@ -1,7 +1,20 @@
-# start-your-geospatial-career
-How to start you geospatial career in 2026
+# How to start you geospatial career in 2026
 
+Starting a career in the geospatial field in 2026 can feel overwhelming — the industry is broad, fast‑moving, and deeply interdisciplinary. Whether you are a student, a recent graduate, or someone transitioning into GIS, Remote Sensing, Earth Observation, or Geospatial Data Science, this repository provides a clear and structured starting point.
 
+The goal of this collection is to help you navigate the geospatial ecosystem by offering curated job boards, graduate programs, international opportunities, company directories, learning resources, and professional events. It is designed as a practical guide to help you understand where to look, how to begin, and which paths you can follow to build a meaningful and future‑proof career in geospatial technologies.
+
+Use this repository as a roadmap: explore job portals, discover training programs, connect with the global geospatial community, and dive into high‑quality learning materials. Whether you aim to become a GIS Technician, Remote Sensing Analyst, EO Data Scientist, or Geospatial Machine Learning Engineer, this guide will support you in taking your next steps with confidence.
+
+## List of international geospatial master progams:
+| program name | University | Location | Link |
+|----------|----------|----------|----------|
+| The EAGLE graduate program (M.Sc.) | University of Würzburg | Würzburg, Germany  | https://eagle-science.org/ |
+| Copernicus Master in Digital Earth (CDE) | Paris-Lodron University Salzburg; University of South Brittany; Palacký University Olomouc  | Salzburg, Austria; Bretagne, France; Olomouc, Czech Republic  | https://master-cde.eu/ |
+| ESPACE – Earth Oriented Space Science and Technology | TU München | Munich, Germany | https://www.tum.de/en/studies/degree-programs/detail/espace-earth-oriented-space-science-and-technology-master-of-science-msc |
+| Geo-Information Science and Earth Observation | University of Twente | Twente, Netherlands | https://www.utwente.nl/en/itc/education/study-finder/geo-information-science-earth-observation/ | 
+
+The EAGLE graduate program (M.Sc.)
 
 ## List of Job Boards (in Germany):
 - [Z_GIS Jobbörse](https://www.plus.ac.at/geoinformatik/news-jobs/jobs/)
