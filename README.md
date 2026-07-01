@@ -114,7 +114,7 @@ A strong geospatial career doesn’t start *after* graduation — it starts **du
 - [Esri Graduate Program](https://www.esri.de/de-de/karriere/esri-graduate-program#accordion-1-1)
 - [ESA Graduate Trainees](https://www.esa.int/About_Us/Careers_at_ESA/Graduates_ESA_Graduate_Trainees)
 - [ESA National Graduate Trainees](https://www.esa.int/About_Us/Careers_at_ESA/Graduates_National_Graduate_Trainees)
-- [Early Career Programme](https://www.eumetsat.int/careers-eumetsat/early-career-programme)
+- [Eumetsat Early Career Programme](https://www.eumetsat.int/careers-eumetsat/early-career-programme)
 - [Traineeships at SatCen (EU Satellite Centre)](https://eu-careers.europa.eu/de/trainee/traineeships-satcen)
 - [Traineeships at EUSPA (European Union Agency for the Space Programme)](https://www.euspa.europa.eu/opportunities/careers/trainees)
 
