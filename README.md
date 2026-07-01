@@ -14,11 +14,15 @@ Use this repository as a roadmap: explore job portals, discover training program
 | ESPACE – Earth Oriented Space Science and Technology | TU München | Munich, Germany | https://www.tum.de/en/studies/degree-programs/detail/espace-earth-oriented-space-science-and-technology-master-of-science-msc |
 | Geo-Information Science and Earth Observation | University of Twente | Twente, Netherlands | https://www.utwente.nl/en/itc/education/study-finder/geo-information-science-earth-observation/ | 
 | Photogrammetry and Geoinformatics | HFT Stuttgart | Stuttgart, Germany | https://www.hft-stuttgart.com/geomatics/master-photogrammetry-and-geoinformatics |
-| Geographical Information Science and Earth Observation | University of Edinburgh | Edinburgh, Scotland| https://study.ed.ac.uk/programmes/postgraduate-taught/1146-geographical-information-science-and-earth-observation#overview |
+| Geographical Information Science and Earth Observation | University of Edinburgh | Edinburgh, Scotland | https://study.ed.ac.uk/programmes/postgraduate-taught/1146-geographical-information-science-and-earth-observation#overview |
 | MSc Earth, Climate and Technology | TU Delft | Delft, Netherlands |  https://www.tudelft.nl/onderwijs/opleidingen/masters/ect/msc-earth-climate-and-technology |
 | Earth System Data Science and Remote Sensing | Leipzig University | Lepzig, Germany | https://www.physes.uni-leipzig.de/en/studying/courses-of-study/master-earth-system-data-science-and-remote-sensing |
-| Remote Sensing and Geoinformatics | KIT Karlsruhe | Karsruhe, Germany https://www.sle.kit.edu/english/vorstudium/master-remote-sensing-geoinformatics.php |
+| Remote Sensing and Geoinformatics | KIT Karlsruhe | Karsruhe, Germany | https://www.sle.kit.edu/english/vorstudium/master-remote-sensing-geoinformatics.php |
 | GEM: Erasmus+ MSc in Geo-Information Science and Earth Observation for Environmental Modelling and Management | University of Twente, Lund University, UCLouvain University, University of Tartu | Twente, Netherlands; Lund, Sweden; Louvain, Belgium; Tartu, Estonia | https://www.gem-msc.eu/ |
+| Remote Sensing and Environmental Mapping | University College London | London, UK | https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/remote-sensing-and-environmental-mapping-msc |
+| Geospatial Science | RMIT University | Melbourne, Australia| https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-geospatial-science-mc265 |
+| Geospatial Intelligence | University of Maryland | Maryland, United States | https://geospatial.umd.edu/education/master-science-geospatial-intelligence |
+| Geospatial & Mapping Sciences | University of Glasgow | Glasgow, Scotland | https://www.gla.ac.uk/postgraduate/taught/geospatial-mapping-sciences/ | Geographical Information Systems and Remote Sensing | University of Southampton | Southampton, UK | https://www.southampton.ac.uk/courses/geographical-information-systems-remote-sensing-masters-msc |
 
 The EAGLE graduate program (M.Sc.)
 
