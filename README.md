@@ -1,5 +1,8 @@
 # How to start you geospatial career in 2026
 
+*This list is a incomplete collection and is being further developed
+*
+
 Starting a career in the geospatial field in 2026 can feel overwhelming — the industry is broad, fast‑moving, and deeply interdisciplinary. Whether you are a student, a recent graduate, or someone transitioning into GIS, Remote Sensing, Earth Observation, or Geospatial Data Science, this repository provides a clear and structured starting point.
 
 The goal of this collection is to help you navigate the geospatial ecosystem by offering curated job boards, graduate programs, international opportunities, company directories, learning resources, and professional events. It is designed as a practical guide to help you understand where to look, how to begin, and which paths you can follow to build a meaningful and future‑proof career in geospatial technologies.
