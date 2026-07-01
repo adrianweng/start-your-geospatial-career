@@ -44,11 +44,9 @@ A strong geospatial career doesn’t start *after* graduation — it starts **du
 - **Publish results on a website** — Maps, dashboards, notebooks, and visualizations make your work accessible and impressive.
 - **Document your learning journey** — Writing about what you learn helps others and builds your professional identity.
 
-## 🔍 **Find inspiring people**
-- **Follow people who do cool work** — Whether on LinkedIn, GitHub, YouTube, or through scientific papers, inspiration fuels growth. Seeing what others build helps you discover your own direction.
-
 ## 🌐 **Build your network**
 - **Connect with students outside your university** — Student conferences, workshops, and summer schools are ideal for meeting people who share your interests. These connections often lead to collaborations, project ideas, or even job opportunities later on.
+- **Find inspiring people** Follow people who do cool work. Whether on LinkedIn, GitHub, YouTube, or through scientific papers, inspiration fuels growth. Seeing what others build helps you discover your own direction.
 - **Join geospatial communities and online groups** — Communities like Women+ in Geospatial, OpenStreetMap groups, EO College forums or local GIS meetups help you stay informed, ask questions, and meet people who are already active in the field. They often share events, jobs, and learning resources you wouldn’t find elsewhere.
 - **Talk to professors, research staff, and alumni** — Professors and alumni know about hidden opportunities: research assistant roles, small projects, travel funding, or collaborations with companies. Building relationships inside and around your department opens doors you didn’t know existed.
 - **Attend local meetups and smaller conferences** — Smaller events such as QGIS user groups, GIS Days or city‑based tech meetups are low‑pressure environments to meet professionals. They’re often easier to access than large international conferences and help you build confidence in networking.
@@ -104,7 +102,7 @@ A strong geospatial career doesn’t start *after* graduation — it starts **du
 - [Karriereportal des öffentlichen Dienstes](https://interamt.de)
 - [Agentur für Arbeit](https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1&was=GIS)
 
-## International
+## List of Job Boards (International):
 - [Earthworks-jobs.com](https://www.earthworks-jobs.com/)
 - [Women+ in Geospatial: Weekly post with open positions](https://www.linkedin.com/company/women-in-geospatial/posts/?feedView=all)
 - [Hexagon Jobs](https://hexagon.com/company/careers/job-listings)
@@ -126,7 +124,7 @@ A strong geospatial career doesn’t start *after* graduation — it starts **du
 - [Git: Earth Observation Companies & Jobs](https://github.com/DahnJ/EO-jobs)
 - [INTERGEO: Exhibitor List](https://dvw.de/intergeo/en/visit/exhibitor-list)
 
-## Read and listen to intresting sources:
+## Read and listen to intresting resources:
 - [Blog article: Start your Geospatial Career](https://chrieke.medium.com/start-your-geospatial-career-8eaf1a94d047)
 - [Mapscaping Podcast: Getting Your Dream Job in Earth Observation](https://mapscaping.com/podcast/getting-your-dream-job-in-earth-observation/)
 - [Mapscaping Podcast: Hiring And Being Hired For Geospatial Jobs](https://mapscaping.com/podcast/hiring-and-being-hired-for-geospatial-jobs/)
